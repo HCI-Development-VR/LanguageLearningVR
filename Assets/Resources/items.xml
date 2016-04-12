@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemCollection>
+	<Items>
+		<Item stage="Hello">
+			<Sound>Gisselle-1.mp3</Sound>
+			<Choice1>Estoy bien, gracias.</Choice1>
+			<Choice2>Estoy rico, gracias.</Choice2>
+			<Choice3>Estoy cuchara, gracias.</Choice3>
+			<Answer>1</Answer>
+			<Anim>g1</Anim>
+		</Item>
+		<Item stage="Gisselle-2">
+			<Sound>Gisselle-2.wav</Sound>
+			<Choice1>gracias.</Choice1>
+			<Choice2>Est gracias.</Choice2>
+			<Choice3>Estoy cus.</Choice3>
+			<Answer>1</Answer>
+			<Anim>g2</Anim>
+		</Item>
+		<Item stage="Gisselle-3">
+			<Sound>Gisselle-3.wav</Sound>
+			<Choice1>Estoy bien, gracias.</Choice1>
+			<Choice2>Estoy rico, gracias.</Choice2>
+			<Choice3>Estoy cuchara, gracias.</Choice3>
+			<Answer>1</Answer>
+			<Anim>g3</Anim>
+		</Item>
+		<Item stage="Gisselle-4">
+			<Sound>record4.wav</Sound>
+			<Choice1>Estoy bien, gracias.</Choice1>
+			<Choice2>Estoy rico, gracias.</Choice2>
+			<Choice3>Estoy cuchara, gracias.</Choice3>
+			<Answer>1</Answer>
+			<Anim>g4</Anim>
+		</Item>
+		
+		<Item stage="Gisselle-5">
+			<Sound>record5.wav</Sound>
+			<Choice1>Estoy bien, gracias.</Choice1>
+			<Choice2>Estoy rico, gracias.</Choice2>
+			<Choice3>Estoy cuchara, gracias.</Choice3>
+			<Answer>1</Answer>
+			<Anim>g5</Anim>
+		</Item>
+		
+		<Item stage="Gisselle-6">
+			<Sound>record6.wav</Sound>
+			<Choice1>Estoy bien, gracias.</Choice1>
+			<Choice2>Estoy rico, gracias.</Choice2>
+			<Choice3>Estoy cuchara, gracias.</Choice3>
+			<Answer>1</Answer>
+			<Anim>g6</Anim>
+		</Item>
+		
+		<Item stage="Gisselle-7">
+			<Sound>record7.wav</Sound>
+			<Choice1>Estoy bien, gracias.</Choice1>
+			<Choice2>Estoy rico, gracias.</Choice2>
+			<Choice3>Estoy cuchara, gracias.</Choice3>
+			<Answer>1</Answer>
+			<Anim>g7</Anim>
+		</Item>
+		
+		<Item stage="Gisselle-8">
+			<Sound>record8.wav</Sound>
+			<Choice1>Estoy bien, gracias.</Choice1>
+			<Choice2>Estoy rico, gracias.</Choice2>
+			<Choice3>Estoy cuchara, gracias.</Choice3>
+			<Answer>1</Answer>
+			<Anim>g8</Anim>
+		</Item>
+		
+		<Item stage="Gisselle-9">
+			<Sound>record9.wav</Sound>
+			<Choice1>Estoy bien, gracias.</Choice1>
+			<Choice2>Estoy rico, gracias.</Choice2>
+			<Choice3>Estoy cuchara, gracias.</Choice3>
+			<Answer>1</Answer>
+			<Anim>g9</Anim>
+		</Item>
+		
+		<Item stage="Gisselle-10">
+			<Sound>record10.wav</Sound>
+			<Choice1>Estoy bien, gracias.</Choice1>
+			<Choice2>Estoy rico, gracias.</Choice2>
+			<Choice3>Estoy cuchara, gracias.</Choice3>
+			<Answer>1</Answer>
+			<Anim>g10</Anim>
+		</Item>
+		
+	</Items>
+</ItemCollection>
+		
